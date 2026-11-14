@@ -6,7 +6,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/HeyHaku/AyrisFlow_Releases?style=for-the-badge&color=a93a35&label=Release)](https://github.com/HeyHaku/AyrisFlow_Releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/HeyHaku/AyrisFlow_Releases/total?style=for-the-badge&color=12212b&label=Downloads)](https://github.com/HeyHaku/AyrisFlow_Releases/releases)
-![Platform](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Platform](https://img.shields.io/badge/Android-11.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 👉 [Download Latest APK](https://github.com/HeyHaku/AyrisFlow_Releases/releases/latest)
 
